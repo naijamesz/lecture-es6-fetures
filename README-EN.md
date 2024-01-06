@@ -1,6 +1,8 @@
 # lecture-es6-fetures EN
 ## ES6 Features
 
+<a href="https://github.com/naijamesz/lecture-es6-fetures-EN-TH/blob/main/README.md">ภาษาไทย</a>
+
 ES6 or ECMAScript 2015 is a significant update for JavaScript, introducing many new features to make coding easier and more efficient. Here is a summary of the main features in ES6 along with examples of how to use them:
 
 1. **Let and Const**
