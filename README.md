@@ -1,5 +1,7 @@
 ## คุณสมบัติของ ES6
 
+<a href="https://github.com/naijamesz/lecture-es6-fetures-EN-TH/blob/main/README-EN.md">English</a>
+
 ES6 หรือ ECMAScript 2015 เป็นการอัปเดตที่สำคัญสำหรับภาษา JavaScript ที่นำเสนอคุณสมบัติใหม่มากมายเพื่อทำให้การเขียนโค้ดง่ายและมีประสิทธิภาพมากขึ้น นี่คือสรุปของคุณสมบัติหลักใน ES6 พร้อมตัวอย่างการใช้งาน:
 
 1. **Let และ Const**
